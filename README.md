@@ -40,18 +40,20 @@ RegisterNumber:  23005559
 */
 ````
 ##HALF SUBTRACOR
+
 ![Screenshot 2023-12-14 091930](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/255de6b7-1ca2-4b7f-a7d5-00cf78951909)
 
-
 FULL SUBTRACTOR
-![Screenshot 2023-12-14 091937](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/79b9dcea-4f42-4734-a5b2-69595b37851b)
 
+![Screenshot 2023-12-14 091937](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/79b9dcea-4f42-4734-a5b2-69595b37851b)
 
 ## Truthtable
 HALF SUBTRACOR
+
 ![Screenshot 2023-12-14 091947](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/94da8dd0-f0f4-48b4-a895-b5544cd58a78)
 
 FULL SUBTRACTOR
+
 ![Screenshot 2023-12-14 091955](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/0bc22803-db15-499b-b86f-b83f7e8f9f29)
 
 
