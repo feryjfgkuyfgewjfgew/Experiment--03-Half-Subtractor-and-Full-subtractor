@@ -38,30 +38,35 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 Developed by: NARESH.R
 RegisterNumber:  23005559
 */
-##HALF SUBTRACOR
-![Alt text](<Screenshot 2023-12-14 091930.png>)
+##HALF SUBTRACOR![Screenshot 2023-12-14 091930](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/255de6b7-1ca2-4b7f-a7d5-00cf78951909)
+
 
 FULL SUBTRACTOR
+![Screenshot 2023-12-14 091937](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/79b9dcea-4f42-4734-a5b2-69595b37851b)
 
-![Alt text](<Screenshot 2023-12-14 091937.png>)
 
 ## Truthtable
 HALF SUBTRACOR
-![Alt text](<Screenshot 2023-12-14 091947.png>)
+![Screenshot 2023-12-14 091947](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/94da8dd0-f0f4-48b4-a895-b5544cd58a78)
 
 FULL SUBTRACTOR
-![Alt text](<Screenshot 2023-12-14 091955.png>)
+![Screenshot 2023-12-14 091955](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/0bc22803-db15-499b-b86f-b83f7e8f9f29)
+
 
 ##  RTL realization
 HALF SUBTRACOR
-![Alt text](<Screenshot 2023-12-14 092004.png>)
+![Screenshot 2023-12-14 092004](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/78f585bc-2c44-4759-b361-5bd203baa030)
+
 FULL SUBTRACTOR
-![Alt text](<Screenshot 2023-12-14 092014.png>)
+![Screenshot 2023-12-14 092014](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/97bf9dde-a304-40f2-9498-6f84182cba16)
+
 ## Timing diagram 
 HALF SUBTRACOR
-![Alt text](<Screenshot 2023-12-14 092100.png>)
+![Screenshot 2023-12-14 092100](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/51c2058e-0856-4eee-be0b-b41f0d8674ae)
+
 FULL SUBTRACTOR
-![Alt text](<Screenshot 2023-12-14 092230.png>)
+![Screenshot 2023-12-14 092230](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/dc158aed-72bc-4418-9405-9f6b0521ee26)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
