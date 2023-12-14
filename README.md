@@ -33,12 +33,14 @@ Write the detailed procedure here
 
 
 ## Program:
-/*
+```/*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: NARESH.R
 RegisterNumber:  23005559
 */
-##HALF SUBTRACOR![Screenshot 2023-12-14 091930](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/255de6b7-1ca2-4b7f-a7d5-00cf78951909)
+````
+##HALF SUBTRACOR
+![Screenshot 2023-12-14 091930](https://github.com/feryjfgkuyfgewjfgew/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319377/255de6b7-1ca2-4b7f-a7d5-00cf78951909)
 
 
 FULL SUBTRACTOR
